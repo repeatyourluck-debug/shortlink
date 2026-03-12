@@ -1,3 +1,5 @@
+import React from 'react';
+
 export const metadata = {
   title: 'Redirector',
   description: 'Smart IP-based redirector',
